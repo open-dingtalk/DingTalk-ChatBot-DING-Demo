@@ -1,17 +1,11 @@
 # appKey
-dingtalk.service.appKey = dingsqme4pt3aqcclx8t
+dingtalk.service.appKey = xxx
 
 # appSecret
-dingtalk.service.appSecret = tAN5XK_V0vmdb21sGjcJs-Y1-pYIa9Q5Rdup9yoOhBX2l3GRXsAzGLaeoeXJH6Gk
+dingtalk.service.appSecret = xxx
 
-# dingRobotCode
-dingtalk.service.robotCode = dingsqme4pt3aqcclx8t
+# robotCode
+dingtalk.service.robotCode = xxx
 
-# owner
-dingtalk.service.owner = 020909570040643995
-
-# userIdList
-dingtalk.service.userIdList = 020909570040643995,01270369365237709167,022243410127753637
-
-# dingReceiver
-dingtalk.service.receiverUserIdList = 020909570040643995,01270369365237709167,022243410127753637
+# mobile
+dingtalk.service.mobile = xxx
